@@ -1,0 +1,5 @@
+#   ignore files
+inc.php
+.task.txt
+temp/
+admin/temp
